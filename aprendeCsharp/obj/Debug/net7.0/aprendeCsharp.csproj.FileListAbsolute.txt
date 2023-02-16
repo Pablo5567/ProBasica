@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\bin\Debug\net7.0\aprendeCsharp.exe
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\bin\Debug\net7.0\aprendeCsharp.deps.json
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\bin\Debug\net7.0\aprendeCsharp.runtimeconfig.json
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\bin\Debug\net7.0\aprendeCsharp.dll
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\bin\Debug\net7.0\aprendeCsharp.pdb
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.AssemblyInfo.cs
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.dll
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\obj\Debug\net7.0\refint\aprendeCsharp.dll
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.pdb
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\obj\Debug\net7.0\aprendeCsharp.genruntimeconfig.cache
+C:\Users\USER\Documents\Proyectos Unity\ProBasica\aprendeCsharp\obj\Debug\net7.0\ref\aprendeCsharp.dll
